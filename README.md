@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/k-hroma/Social-Link-Profile.git]
-- Live Site URL: []
+- Live Site URL: [https://k-hroma.github.io/Social-Link-Profile/]
 
 ## My process
 
